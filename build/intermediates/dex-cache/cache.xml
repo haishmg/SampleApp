@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hganeshmurthy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_aee720d9b3338939f7754362f8c0095ebad31ac0.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="65107081fe622f490247f29cc999efdf3a984cd2">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/instant-run_c2750db055570a927dc53dea80e9a447d005e2c5.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_9c9748d439302896f9538bc2fa8f2ea7618c0b24.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_f840fcb19d6b8297f0299069153229f0405a83a5.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_a89c3b88cba0c337c64b9792e1862956a207241e.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_b5b2f73a51009611317b8795410ddab5e1aaa58f.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_4c92c29f8d2d85615e7c837afa39850d54fb2c6e.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_64a28af1fea999207dc3bc82763ddf3aa3cea768.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.12.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="26645b518694e20a97fc19a6a3c3933c0cc41bc1">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.12.1_f9ee723599cae55ac745fae93576fe9ed9f1c8d4.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/exploded-aar/com.facebook.android/account-kit-sdk/4.12.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="843d02be6674be1851a7ffb48e2b0884c6c8fb3e">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/com.facebook.android-account-kit-sdk-4.12.0_ea194a6fe687607cb1b78dbaa5c08e17f77863a1.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2f600406878985a10233672cd29e7aeb948d1550">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_62e6f2c95c791260ada9cc476993ec9c55e64569.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_e60f0f251e65151d4af283ebc3259491259461c5.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c6c14d0e86b26acdfc691b9d5ea5977315fc36eb.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_d0f23fa1f498524c55b6aaee53889653b8345b25.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_036b50a52e96ab2b2a7a233aebca0e2677e733c2.jar" />
+    </item>
+    <item
+        jar="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/hganeshmurthy/git_projs/SampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_d9a5c1e691591ff5705454fff4acfa1eb73a78f9.jar" />
+    </item>
+
+</items>

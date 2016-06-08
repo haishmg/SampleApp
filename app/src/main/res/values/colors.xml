@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Purple Theme-->
+    <color name="colorPrimary">#551A8B</color>
+    <color name="colorPrimaryDark">#551A8B</color>
+    <color name="colorAccent">#551A8B</color>
+    <color name="colorPrimaryLight">#ddd3ee</color>
+    <color name="colorPrimaryLighter">#f4f1fa</color>
+
+    <!--Colors-->
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="transparent">#80000000</color>
+    <color name="yellow_dark">#FFEB3B</color>
+    <color name="yellow">#FFF7AE</color>
+    <color name="gray">#cccccc</color>
+    <color name="gray_light">#e4e4e4</color>
+    <color name="red">#ff0000</color>
+</resources>
