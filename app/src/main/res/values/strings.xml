@@ -2,4 +2,9 @@
     <string name="facebook_app_id">479385895605201</string>
     <string name="ACCOUNT_KIT_CLIENT_TOKEN">0c86c9ee2790a9dfcd219f5e7e515c30</string>
     <string name="app_name">fearless</string>
+    <string name="parse_app_id">NinxGO61dB0zjlrRab61xwyoCLUFN3wZ2KUvaKoz</string>
+    <string name="parse_client_key">RwmOYZJNFdiTCRuQP4Uh3caoNiBWZneBqNpDYfpX</string>
+    <string name="parse_server">
+        http://fearlessparseserver-1.us-east-1.elasticbeanstalk.com/parse/
+    </string>
 </resources>
