@@ -52,7 +52,7 @@ dependencies {
 
     compile 'com.parse:parseinterceptors:0.0.2'
     compile 'com.parse.bolts:bolts-android:1.+'
-    compile 'com.parse:parse-android:1.+'
+    compile 'com.parse:parse-android:1.13.1'
 
     compile 'com.squareup:seismic:1.0.2'
     compile 'com.jakewharton:butterknife:7.0.1'
